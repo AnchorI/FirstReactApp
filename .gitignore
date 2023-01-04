@@ -116,3 +116,22 @@ dist/
 
 # Ruby model parser
 src/utils/cli/data/
+
+
+# from vite
+
+# Logs
+pnpm-debug.log*
+
+node_modules
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
